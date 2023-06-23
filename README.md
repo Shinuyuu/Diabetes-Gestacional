@@ -1,2 +1,2 @@
 # Diabetes-Gestacional
-Hamburguês
+Hamburguês.
